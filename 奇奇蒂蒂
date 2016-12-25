@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+ 
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>奇奇蒂蒂</title>
+    </head>
+    <body  background="9.jpg">
+   <em>迪士尼</em>的搗蛋雙人組 奇奇<mark>與</mark>、<strong>蒂蒂</strong> 
+    <hr>   
+    <img src="0.jpg"    windth="550"      height="450">
+    <img src="2.jpg"    windth="400"      height="300">
+    <img src="10.jpg"    windth="400"      height="300">
+    <hr>
+        <a href="002.html">連到第二頁</a>
+        <a href="003.html">連到第三頁</a>
+        <font color="#800000"><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    奇奇與蒂蒂（Chip 'n' Dale），香港譯為鋼牙與大鼻，是迪士尼所創造的卡通人物，為一對
+ 
+    花栗鼠雙胞胎兄弟，首次登場是在1943年的動畫《大兵布魯托》（Private Pluto）。命名是
+ 
+    來自著名英國家具工匠齊本德爾（Chippendale）的諧音。
+ 
+    奇奇（Chip）的外觀特徵是黑色的鼻子和一顆位於正中央的大門牙，蒂蒂（Dale）則是紅色的
+ 
+    鼻子和兩顆虎牙(初期與奇奇長得一模一樣)，並且頭上有一小撮短毛。它們在背上都有兩條直
+ 
+    線（白色的毛），在性格設定上，奇奇的邏輯性較強，蒂蒂則常常少根筋，所以故事情節多半
+ 
+    是奇奇扮演策劃的主謀，蒂蒂扮演執行的從犯，並藉由蒂蒂出人意料的脫序行動來引發笑點，
+ 
+    基本上走的是鬧劇路線，主要與唐老鴨或布魯托做對手戲，其中又以戲弄唐老鴨居多。
+ 
+    奇奇與蒂蒂登場近半世紀後，1989年迪士尼終於製作了以兩隻花栗鼠為主角的動畫系列《救難小福星》。
+ 
+</pre></font>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+ 
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>奇奇檔案</title>
+    </head>
+    <body  background="5.jpg">
+        
+    <hr>   
+    <img src="8.jpg"    windth="500"      height="400">
+    <img src="4.jpg"    windth="400"      height="300">
+    <img src="1.jpg"    windth="500"      height="400">
+    <hr>
+    <font color="#30D5C8"><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     ● 奇奇 （Chip） 
+       外貌： 長的很端正 
+       毛色： 咖啡色 
+       鼻子： 小黑色鼻 
+       牙齒： 一顆牙齒 
+       聲音： 聲音很尖 
+       個性： 聰明 
+       品種： 花栗鼠 
+       生日： 1943.4.2 
+       喜愛的食物： 橡果、花生和胡桃 
+</pre></font>
+ 
+    <a href="index.html">連到我的首頁</a>
+    <a href="003.html">連到第三頁</a>
+ 
+</html>
+
+
+
+<!DOCTYPE html>
+ 
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>蒂蒂檔案</title>
+    </head>
+    <body  background="7.jpg">
+        
+    <hr>   
+    <img src="6.jpg"    windth="500"      height="400">
+    <img src="12.jpg"    windth="600"      height="400">
+    <img src="0.jpg"    windth="300"      height="200">
+     <hr>
+    <font color="#8B00FF"><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     ● 蒂蒂（Dale） 
+       外貌： 長的比較畸，還有一撮頭髮 兩層眼皮好像沒睡飽的樣子 
+       毛色： 棕色 
+       鼻子： 大紅鼻 
+       牙齒： 兩顆爆牙 
+       聲音： 聲音比較低 
+       個性： 呆呆的 
+       品種： 花栗鼠 
+       生日： 1943.4.2 
+       喜愛的食物： 橡樹、花生和胡桃 
+ 
+</pre></font>
+ 
+    <a href="index.html">連到我的首頁</a>
+    <a href="002.html">連到第二頁</a>
+ 
+ 
+</html>
